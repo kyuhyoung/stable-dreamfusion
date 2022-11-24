@@ -6,6 +6,7 @@ The original paper's project page: [_DreamFusion: Text-to-3D using 2D Diffusion_
 
 **NEW**: a **pure pytorch** version is also supported now by using `-O2` (no needs to build CUDA extensions, although needs more GPU memory).
 
+
 Colab notebooks: 
 * Instant-NGP backbone (`-O`): [![Instant-NGP Backbone](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MXT3yfOFvO0ooKEfiUUvTKwUkrrlCHpF?usp=sharing)
 
